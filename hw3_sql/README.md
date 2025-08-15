@@ -1,3 +1,8 @@
+##### Install dependencies:
+```
 pip install -r requirements.txt
+```
 
-create config.json from config.json.example
+##### Configure your database connection:
+
+Create a `config.json` file by copying the `config.json.example` template and fill in your credentials.
